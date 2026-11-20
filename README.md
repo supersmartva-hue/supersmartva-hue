@@ -1,4 +1,4 @@
-# Hi, I'm supersmartva-hue 👋
+# Hi, I'm Nadia Mahak 👋
 
 **Full Stack Developer | Building modern web applications and exploring AI**
 
