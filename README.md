@@ -53,36 +53,7 @@ My long-term goal is to combine Full Stack Development with emerging AI technolo
 ![Large Language Models](https://img.shields.io/badge/Large_Language_Models-1F2937?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge)
 
-## Featured Projects
 
-> These are placeholders. Add only completed projects and verified links.
-
-### Project 1: `[PROJECT NAME]`
-
-A short description of what the project does, the problem it solves, and the value it provides.
-
-**Technologies:** `[TECHNOLOGY 1]`, `[TECHNOLOGY 2]`, `[TECHNOLOGY 3]`
-
-- **GitHub Repository:** `[ADD GITHUB REPOSITORY URL]`
-- **Live Demo:** `[ADD LIVE DEPLOYMENT URL]`
-
-### Project 2: `[PROJECT NAME]`
-
-A short description of what the project does, the problem it solves, and the value it provides.
-
-**Technologies:** `[TECHNOLOGY 1]`, `[TECHNOLOGY 2]`, `[TECHNOLOGY 3]`
-
-- **GitHub Repository:** `[ADD GITHUB REPOSITORY URL]`
-- **Live Demo:** `[ADD LIVE DEPLOYMENT URL]`
-
-### Project 3: `[PROJECT NAME]`
-
-A short description of what the project does, the problem it solves, and the value it provides.
-
-**Technologies:** `[TECHNOLOGY 1]`, `[TECHNOLOGY 2]`, `[TECHNOLOGY 3]`
-
-- **GitHub Repository:** `[ADD GITHUB REPOSITORY URL]`
-- **Live Demo:** `[ADD LIVE DEPLOYMENT URL]`
 
 ## GitHub Statistics
 
@@ -100,7 +71,6 @@ A short description of what the project does, the problem it solves, and the val
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supersmartva-hue)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supersmartva@gmail.com)
 
-- **Portfolio:** `[ADD YOUR PORTFOLIO URL]`
 
 ---
 
